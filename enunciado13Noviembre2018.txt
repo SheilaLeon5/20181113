@@ -1,0 +1,8 @@
+1. Crear el metodo main en la clase Principal. Desde ahi se llamarán a los métodos que se 
+implementan en la clase Ejercicios
+
+...
+
+Haz un commit cuando consigas un objetivo o lo especifique el profesor.
+
+ENTREGA: Comprime el proyecto y súbelo a la plataforma.
