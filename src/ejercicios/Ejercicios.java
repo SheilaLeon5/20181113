@@ -44,39 +44,5 @@ public class Ejercicios {
 		}
 		return resultado;
 	}
-
-*/
-
-
-/*
-	// Actividad: Pasar una lista de números desordenados y mostrarlos ordenados
-	public void ordenarArray(int [] numeros) {
-		int numCompara = numeros[0];
-		for (int i = 0; i < numeros.length-1; i++) {
-			for (int j = 0; j < numeros.length; j++) {
-				if(numeros[i]>numeros[j]) {
-					numCompara = numeros[i];
-					numeros[i]= numeros[j];
-					numeros[j]= numCompara;	
-				}
-			}
-		}
-	}
-*/
-	
-	
-	//Ordenar un array de cadenas  14/11/2018
-/*	public void ordenarCadena(String [] cadenas) {
-		for (int i = 0; i < cadenas.length-1; i++) {
-			for (int j = 0; j < cadenas.length; j++) {
-				if(cadenas[i].compareTo(cadenas[j]) >0) {  // ENTENDER LINEA
-					String comparador = cadenas[i];
-					cadenas[i]= cadenas[j];
-					cadenas[j]= comparador;	
-					
-				}
-			} 
-		}
-	}*/
-	
+*/	
 }

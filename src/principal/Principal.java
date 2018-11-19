@@ -22,14 +22,6 @@ public class Principal {
 		ejercicios.listaDesgloseMoneda(1234);
 	
 	*/	
-		
-		//int ordenarArray[]= {40,8,2,1,30};
-		
-		
-		
-/*		Ejercicios ejercicios= new Ejercicios();
-		String palabras[]= {"zorro","azul","abeja","pez"};
-		System.out.println(Arrays.toString(palabras));
-*/
+
 	}
 }
